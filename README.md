@@ -44,7 +44,8 @@ The task is to estimate the price of houses based on the given 79 attributes tha
   
 ### Performance Comparison
 
-* The metric is Root Mean Squared Error (RMSE).
+* The metric is Root Mean Squared Error (RMSE):
+
 ![image](https://user-images.githubusercontent.com/89665013/207662557-01cb0b57-6774-48c4-ba21-63685aebf0b0.png)
 ![image](https://user-images.githubusercontent.com/89665013/207692121-30d2a03c-bdf1-4826-8c25-8107686eaf7d.png)
 
