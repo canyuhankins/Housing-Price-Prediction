@@ -24,11 +24,6 @@ The task is to estimate the price of houses based on the given 79 attributes tha
   * Need to go through and check them 
 * One-hot encoding for categorical variables
 
-#### Data Visualization
-The PCA (Principal Component Analysis) is shown: 
-![image](https://user-images.githubusercontent.com/89665013/207643348-0a6afc21-dcb3-4963-8d84-c2fc35b42cac.png)
-* Can use 100-150 features and variance is still significant
-
 ### Problem Formulation
 
   * Input: diffferent features for residential house
@@ -42,7 +37,7 @@ The PCA (Principal Component Analysis) is shown:
 
   * sklearn learn, linear_model from sklearn
   * The run time was pertty quick, since the data set is not too large. 
-  * Most of the difficulties come from the data cleaning and data preprocessing before fit to model. Model selection is also trick. 
+  * Most of the difficulties come from the data cleaning and data preprocessing before fit to model. Model selection is also trick.
   
   
 ### Performance Comparison
