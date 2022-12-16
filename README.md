@@ -11,8 +11,8 @@ The task is to estimate the price of houses based on the given 79 attributes tha
     * Input: CSV file: description of a residential house; Training and test set
   * Size: 957.39 kB
   * Instances 1460 points given for training and 1459 given for testing.
-  * ![image](https://user-images.githubusercontent.com/89665013/207676429-4538c529-23a3-4e04-8bd2-910d1318254c.png)
-   * Historgram shown is the sales price of the train data set.
+  * ![image](https://user-images.githubusercontent.com/89665013/208147103-35dfa13f-68ca-40a8-bbe7-009c7493c86a.png)
+  * Historgram shown is the sales price of the train data set.
 
 #### Preprocessing / Clean up
 
